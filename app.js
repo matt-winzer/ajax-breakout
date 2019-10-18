@@ -26,3 +26,6 @@ function findCharacter(event) {
 function appendName(person) {
   $name.text(person.name);
 }
+
+
+// change
